@@ -30,3 +30,9 @@ img {
   height: 700px;
   object-fit: contain;
 }
+em {
+  font-weight: bold;
+}
+strong {
+  font-style: italic;
+}
