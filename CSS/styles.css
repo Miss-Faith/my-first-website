@@ -1,9 +1,11 @@
 h1 {
-  color: #0000ff;
+  color: brown;
   text-align: center;
+  font-family: inherit;
+  font-size: 200%;
 }
 h2 {
-  color: green;
+  color: inherit;
   font-style: italic;
   text-align: center;
 }
@@ -12,4 +14,19 @@ p {
 }
 ul {
   line-height: 40px;
+}
+li {
+  font-family: serif;
+  font-weight: lighter;
+}
+body {
+  background-color: orange;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 1px;
+  padding: 5px;
+  width: 800px;
+  height: 700px;
+  object-fit: contain;
 }
