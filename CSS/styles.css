@@ -46,3 +46,12 @@ strong {
   width: 350px;
   float: left;
 }
+.test-box {
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid pink;
+  border-bottom: 8px solid black;
+  padding: 6px;
+  margin: 30px;
+  background-color: yellow;
+}
