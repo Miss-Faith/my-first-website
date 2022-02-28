@@ -27,8 +27,8 @@ img {
   border: 1px solid #ddd;
   border-radius: 1px;
   padding: 5px;
-  width: 800px;
-  height: 700px;
+  width: 250px;
+  height: auto;
   object-fit: contain;
 }
 em {
